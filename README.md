@@ -1,6 +1,6 @@
 What this does?
 
-After installation:
+After installation of jenkins, docker and kubectl cli:
 #Add ubuntu to the docker group. 
 #Add Jenkins to the docker group.
 #verify that java was installed with java --version
