@@ -14,6 +14,6 @@ ls -l /var/run/docker.sock
 ### Change the ownership to jenkins owner.
 ```
 sudo chown jenkins /var/run/docker.sock  
-systemctl enable jenkins
+sudo systemctl enable jenkins
 
 ```
